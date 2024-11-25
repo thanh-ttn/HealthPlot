@@ -1,26 +1,14 @@
 # My test quarto
 
 
-## Quarto
+## Section 1
 
-Quarto enables you to weave together content and executable code into a
-finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that
-includes both content and the output of embedded code. You can embed
-code like this:
+This is my first code. Also test math format $x + 1$
 
 ``` r
-1 + 1
+# check this
+
+1 + 3
 ```
 
-    [1] 2
-
-You can add options to executable code like this
-
     [1] 4
-
-The `echo: false` option disables the printing of code (only output is
-displayed).
