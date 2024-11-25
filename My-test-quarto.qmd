@@ -1,6 +1,6 @@
 ---
 title: "My test quarto"
-format: html
+format: gfm
 editor: visual
 ---
 
